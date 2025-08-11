@@ -1,0 +1,55 @@
+INSTRUCTIONS :
+
+Step 1: Download the application we have provided.
+Step 2: Extract the downloaded application to the required location.
+Step 3: Open the downloaded Employee Attendance System application.
+Step 4: Open the EmployeeAttendanceSystem.exe
+Step 5: Now you can use the application.
+
+PROCEDURE :
+
+Step 1: In the application click on Create Account at the bottom at Login Screen
+        Now you will enter Sign up screen.
+Step 2: After entering UserID , Password, Confirm Pass click on Sign up button then 
+	  We will return to the Login page again.
+Step 3: Now enter the EmployeeId and Password and click on login button.
+	  We will enter to the Home Page where we will see mainly four buttons as
+	  Take Attendance, Report, Add Employee and Delete Employee.
+Step 4: The steps to add the Employee are as follows
+	  ADD EMPLOYEE
+	  Step 4.1: Click on Add Employee, new page will be opened. 
+        Step 4.2: Click on Browse, file manager will be opened.
+	  Step 4.3: Select .jpg file with file name as their employeeID which should contain their photo, then click on Add.
+	  Step 4.4: If the employee photo is not present in our existing data will get a message as "Employee added Successfully".
+	  Step 4.5: After adding all employees in the same manner click on back, will return to the home page. 
+Step 5: The steps to take the Employee attendance are as follows
+	  TAKE ATTENDANCE
+	  Step 5.1: Click on TAKE ATTENDANCE, new page will be opened 
+	  Step 5.2: Click on Start, now attendance taking process has been started.
+        (Intially the camera is closed)
+	  Step 5.3: To open camera, Click on Open Camera
+	  Step 5.4: The employees has to be infront of the camera until their eye blinks atleast once.
+	          	A message will be printed if their attendance has been taken.
+	  Step 5.5: After taking attendance of every employee click on stop button, will return to the home page.
+Step 6: The steps to show report are as follows 
+        REPORT 
+	  Step 6.1: Click on REPORT, new page will be opened
+	  Step 6.2: Select Start date and End date, then click on show, the attendance report  will be opened between the given dates  
+	  Step 6.3: To download that report, click on download button and select the location.
+    			The report will be downloaded at the selected location.
+ 	  Step 6.4: After that click on back button we will return to home page.
+Step 7: The Steps to Delete Employeee are as follows 
+  	  Step 7.1: Click on DELETE EMPLOYEE, new page will be opened 
+	  Step 7.2: Enter Employee ID and the Delete Employee.
+			If Employee ID is present in our data then the employee will deleted and message will be printed.
+	  Step 7.3: After deleting employee click on back button we will return to the home page.
+Step 8: To log out click on the Log Out button.
+Step 9: To close the application click on close button at the right top corner.
+ 	  Then the application will be closed succesfully.
+
+Note : 1. The attendance can be taken only once for a day if we need any changes we need to edit them manually.
+	 2. The camera which is using should be of high resolution.
+	 3. The Photoes of employees while adding should be Clear.
+	 4. While Taking attendance the area should not be dark(Use well lighted area for better experience).
+   
+ 
